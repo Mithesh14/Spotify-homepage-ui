@@ -3,7 +3,7 @@
 
 # Project link
 
-<a href="https://mithesh14.github.io/QR-code-generator/">Listening is everything- Spotify</a>
+<a href="https://mithesh14.github.io/Spotify-homepage-ui/">Listening is everything- Spotify</a>
 
 # Screenshots 
 

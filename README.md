@@ -7,8 +7,8 @@
 
 # Screenshots 
 
-![screenshots](https://github.com/Mithesh14/Spotify-homepage-ui/blob/main/images/image1.jpg)]
-
-
 ![screenshots](https://github.com/Mithesh14/Spotify-homepage-ui/blob/main/images/image1.jpg)
+
+
+![screenshots](https://github.com/Mithesh14/Spotify-homepage-ui/blob/main/images/image2.jpg)
 
